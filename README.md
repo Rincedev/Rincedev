@@ -4,10 +4,12 @@ Je suis un **développeur web en formation**, actuellement en préparation du **
 
 ---
 
-## 🔥 Ce que je fais actuellement :  
-- 🖥️ Développement d'un **Portfolio en ligne** avec Express et PostgreSQL  
-- 🌐 Création d'un **site vitrine pour O'Coffee** en utilisant Bulma  
-- 📚 Apprentissage des API REST et des bonnes pratiques en développement web  
+## 🚀 Ce que je sais faire :  
+- 💻 **Développement Front-end** avec HTML, CSS, Bootstrap et Bulma  
+- ⚙️ **Développement Back-end** avec Node.js et Express.js  
+- 🗄️ **Gestion des bases de données** avec PostgreSQL  
+- 🔧 **Utilisation de Git & GitHub** pour le versionnement de code  
+- 🌍 **Création de sites web responsives**   
 
 ---
 
