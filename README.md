@@ -45,17 +45,14 @@ Je suis un **développeur web en formation**, actuellement en préparation du **
 
 📫 **Tu peux me contacter ici :**  
 
-<a href="https://www.linkedin.com/in/nicolas-egrot/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-<a href="https://rincedev.github.io/cv/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-%23E34F26.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio">
-</a>
-
-<a href="nicolas.egrot@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
-</a>  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-egrot/)  
+[![CV](https://img.shields.io/badge/Portfolio-%23E34F26.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://rincedev.github.io/cv/)  
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](nicolas.egrot@gmail.com)  
+ 
 ---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aldebarian-git&show_icons=true&theme=radical" alt="Stats GitHub">
+</p>
 
 ✨ Merci de visiter mon profil et à bientôt ! 🚀
