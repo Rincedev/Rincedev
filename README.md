@@ -43,7 +43,7 @@ Je suis un **développeur web en formation**, actuellement en préparation du **
 
 ---
 
-📫 **Tu peux me contacter ici :**  
+📫 **Tu peux me contacter ici :** 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-egrot/)  
 [![CV](https://img.shields.io/badge/Portfolio-%23E34F26.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://rincedev.github.io/cv/)  
