@@ -52,7 +52,7 @@ Je suis un **développeur web en formation**, actuellement en préparation du **
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aldebarian-git&show_icons=true&theme=radical" alt="Stats GitHub">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rincedev-git&show_icons=true&theme=radical" alt="Stats GitHub">
 </p>
 
 ✨ Merci de visiter mon profil et à bientôt ! 🚀
