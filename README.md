@@ -5,7 +5,7 @@ Je suis un **développeur web en formation**, actuellement en préparation du **
 ---
 
 ## 🚀 Ce que je sais faire :  
-- 💻 **Développement Front-end** avec HTML, CSS, Bootstrap et Bulma  
+- 💻 **Développement Front-end** avec HTML, CSS, Bootstrap/Bulma/Tailwind  
 - ⚙️ **Développement Back-end** avec Node.js et Express.js  
 - 🗄️ **Gestion des bases de données** avec PostgreSQL  
 - 🔧 **Utilisation de Git & GitHub** pour le versionnement de code  
