@@ -4,12 +4,14 @@ Je suis un **développeur web Full Stack** freelance, actuellement en mission su
 
 ---
 
-## 🚀 Ce que je sais faire :  
-- 💻 **Développement Front-end** avec HTML, CSS, Bootstrap/Bulma/Tailwind  
-- ⚙️ **Développement Back-end** avec Node.js et Express.js  
-- 🗄️ **Gestion des bases de données** avec PostgreSQL  
-- 🔧 **Utilisation de Git & GitHub** pour le versionnement de code  
-- 🌍 **Création de sites web responsives**   
+## 🚀 Ce que je sais faire :
+
+- 🎨 Conception
+- 💻 Développement Front-end
+- ⚙️ Développement Back-end
+- 🗄️ Gestion des bases de données
+- 🔧 Utilisation de Git & GitHub
+- 🌍 Création de sites web responsives
 
 ---
 
